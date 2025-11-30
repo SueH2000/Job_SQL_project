@@ -1,0 +1,36 @@
+skill_abr,skill_name,job_count
+IT,Information Technology,25005
+SALE,Sales,20834
+MGMT,Management,20122
+MNFC,Manufacturing,17509
+HCPR,Health Care Provider,16504
+BD,Business Development,13051
+ENG,Engineering,12425
+OTHR,Other,12250
+FIN,Finance,7903
+MRKT,Marketing,5323
+ACCT,Accounting/Auditing,4936
+ADM,Administrative,4661
+CUST,Customer Service,4136
+PRJM,Project Management,3786
+ANLS,Analyst,3751
+RSCH,Research,2905
+HR,Human Resources,2563
+CNSL,Consulting,2224
+EDU,Education,2176
+LGL,Legal,2156
+DSGN,Design,2152
+TRNG,Training,2126
+GENB,General Business,1917
+QA,Quality Assurance,1746
+ART,Art/Creative,1589
+WRT,Writing/Editing,1406
+PRDM,Product Management,1303
+PR,Public Relations,1236
+SUPL,Supply Chain,1155
+STRA,Strategy/Planning,1144
+SCI,Science,777
+PROD,Production,748
+ADVR,Advertising,650
+PRCH,Purchasing,591
+DIST,Distribution,407
